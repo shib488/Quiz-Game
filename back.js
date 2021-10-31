@@ -1,3 +1,5 @@
+/* javascript file */
+
 (function() {
   const myQuestions = [
     {
