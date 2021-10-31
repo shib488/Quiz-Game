@@ -1,3 +1,4 @@
+/* This is a javascript file */
 (function() {
   const myQuestions = [
     {
